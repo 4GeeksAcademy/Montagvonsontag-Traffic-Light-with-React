@@ -19,4 +19,5 @@ const TrafficLight = () => {
 	);
 };
 
-export default Home;
+export default TrafficLight;
+
